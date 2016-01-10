@@ -85,6 +85,7 @@ y.1 <- 1
 source("C:/Users/OKComputer/Dropbox/R Lab/Lec01 Notes.R")
 #it returns an Error because of the problematice code above. 
 # Note also, you can click the "Source" button in the upper right of this pane. 
+   ### *** I can't find 'source'... does 'raw' = 'source' ?  
 # that will save the .R script to file, and run it all. 
 
 # Run Code in a Script Window
